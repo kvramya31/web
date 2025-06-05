@@ -3,6 +3,4 @@ useing git
 same pice of code modifiying by different developer
 
 
-how do you check the merge conflict
-and reslove it 
-how do you do it 
+
