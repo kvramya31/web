@@ -1,3 +1,8 @@
 this is create meerge conflict method
 useing git 
 same pice of code modifiying by different developer
+
+
+
+how do you check the confilet occure and resolve it 
+i will try this one
